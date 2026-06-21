@@ -1,6 +1,6 @@
 # TakeMeter — r/nba Post Classifier
 
-A fine-tuned text classifier that categorizes r/nba Reddit posts into four discourse types: `analysis`, `hot_take`, `reaction`, and `rumors_news`. Built with DistilBERT fine-tuned on 221 hand-labeled examples and evaluated against a Llama 3.3 70B zero-shot baseline.
+A fine-tuned text classifier that categorizes r/nba Reddit posts into four discourse types: `analysis`, `hot_take`, `reaction`, and `rumors_news`. Built with DistilBERT fine-tuned on 221 hand-labeled examples.
 
 ---
 
