@@ -145,14 +145,3 @@ A classifier meeting these thresholds would be genuinely useful as a filtering l
 - Are `rumors_news` errors concentrated on aggregated/h/t posts? (Suggests the model needs more examples of secondary attribution)
 
 **Verification:** Each AI-identified pattern will be manually verified by spot-checking at least 10 examples that fit the pattern. A pattern is confirmed only if it holds for ≥70% of the spot-checked examples. Unverified patterns will be noted as speculative in the writeup.
-
----
-
-## 8. Stretch Features (To Be Updated)
-
-*This section will be expanded if stretch goals are pursued after the core classifier is complete.*
-
-Candidate stretch directions:
-- Fine-tuning a smaller model (e.g., DistilBERT) on the labeled dataset for local inference
-- Building a Reddit bot that applies predicted flairs to new posts with confidence threshold gating
-- Extending to r/nfl or r/soccer to test cross-community generalization of the taxonomy
