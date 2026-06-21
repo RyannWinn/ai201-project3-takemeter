@@ -1,0 +1,222 @@
+text,label,notes
+The 2018 draft class is the 6th in NBA history to produce multiple Finals MVPs,analysis,CLEAR
+OKC's defensive rating improved 8.3 pts/100 after switching to drop coverage this season,analysis,CLEAR
+Nikola Jokic has the highest AST/TOV ratio among centers since Bill Walton in 1977,analysis,CLEAR
+Breaking down why the Celtics switch everything defensively — what works and what breaks,analysis,CLEAR
+Warriors offense drops 12 pts/100 when Steph is used off-ball vs. as the primary handler,analysis,CLEAR
+Do the Celtics actually need to change their defensive scheme to beat the Heat in a series?,analysis,"EDGE_AH: question framing without explicit stats, but prompts tactical breakdown — analysis"
+Luka's pull-up 3PT% from the step-back is top 5 all-time among high-volume shooters,analysis,CLEAR
+Why the triangle offense couldn't survive in today's pace-and-space NBA — a tactical breakdown,analysis,CLEAR
+Anthony Davis's rim protection metrics are better this season than his 2020 bubble run,analysis,CLEAR
+OKC has the best point differential among sub-25-year-old rosters in franchise history,analysis,CLEAR
+Wemby's shot-blocking angle is unusually vertical vs other elite shot-blockers — film study,analysis,CLEAR
+Tatum's clutch usage rate went from 28% to 41% across the last three postseasons,analysis,CLEAR
+How the Knicks use pindown screens to free Brunson — a breakdown of 40 possessions,analysis,CLEAR
+KD's true shooting percentage has improved every season since the Achilles injury,analysis,CLEAR
+Correlation between playoff seeding and Finals appearance has weakened significantly post-2015,analysis,CLEAR
+Lakers' transition defense ranks 27th — here's why it keeps costing them in close games,analysis,CLEAR
+Bam Adebayo's pick-and-roll defense is statistically the best at his position right now,analysis,CLEAR
+SGA's isolation efficiency this postseason is in the 98th percentile since 2010,analysis,CLEAR
+Memphis half-court offense rating with Ja off the floor is actually higher — here's why,analysis,CLEAR
+The floater is the most efficient shot in the NBA relative to its difficulty — here's the data,analysis,CLEAR
+Comparing Wemby's rookie year to every other top-5 pick statistically adjusted for era,analysis,CLEAR
+The Spurs' draft hit rate from picks 15-30 is the highest in the league over the last decade,analysis,CLEAR
+Every team that won 60+ games over the last 30 years — Finals outcomes,analysis,CLEAR
+Celtics' offensive rating in transition vs half-court: gap is wider than any other title contender,analysis,CLEAR
+Why small-ball lineups still post elite defensive ratings despite conventional wisdom,analysis,CLEAR
+Jokic has been the leading MVP vote-getter in 4 of the last 5 seasons — historical context,analysis,CLEAR
+The three-point revolution: how league-average 3PA went from 18 to 35 per game in 10 years,analysis,CLEAR
+Zion's per-36 numbers when healthy are comparable to peak Shaq — what the analytics say,analysis,"EDGE_AH: single comparison stat, could be hot_take; kept as analysis because it cites verifiable numbers and invites analytical framing"
+How Boston's switch-heavy scheme creates mismatches and why teams haven't cracked it,analysis,CLEAR
+The Thunder's net rating in five-out lineups is the best in the league by a wide margin,analysis,CLEAR
+Point guards who won a championship without a co-star — a historical breakdown,analysis,CLEAR
+Draymond Green's defensive impact is hard to quantify with box scores — here's a framework,analysis,CLEAR
+"Learning basketball plays, tactics, and defensive schemes — a beginner's breakdown thread",analysis,"EDGE_AH: no personal opinion, neutral prompt — classified analysis because it solicits tactical breakdown not emotional sentiment"
+Comparing Giannis's two championship runs statistically — he was actually better in 2021,analysis,CLEAR
+Second-round pick hit rates have improved dramatically since teams adopted analytics scouting,analysis,CLEAR
+The mid-range shot is coming back — data from this season showing a 14% efficiency increase,analysis,CLEAR
+How the Nuggets' dribble-handoff scheme creates the highest quality threes in the league,analysis,CLEAR
+Jimmy Butler's playoff vs regular season gap is statistically significant and consistent,analysis,CLEAR
+Defensive versatility index: which players guard the most different positions effectively,analysis,CLEAR
+Last 10 Finals MVPs ranked by adjusted plus/minus in those series — surprising results,analysis,CLEAR
+Rim protection doesn't require size — a statistical case using 5 seasons of data,analysis,CLEAR
+How pace affects scoring averages — why per-game stats mislead era comparisons,analysis,CLEAR
+Playoff experience vs regular season efficiency — which predicts Finals success better?,analysis,CLEAR
+Most efficient offensive teams in NBA history adjusted for era — where does this Warriors run rank?,analysis,CLEAR
+Is Wemby's defensive impact already historically significant? The numbers make a compelling case.,analysis,EDGE_AH: rhetorical question + soft claim; kept analysis because the body implies stat evidence and invites verification
+Teams that over-performed their pythagorean record and their playoff outcomes,analysis,CLEAR
+Brunson's shot quality vs shot difficulty: why his efficiency is sustainable and not a fluke,analysis,CLEAR
+How the Heat's zone exploits Luka's reluctance to drive left — a film breakdown,analysis,CLEAR
+The decline in center importance: positional value shifts from 2000 to 2025,analysis,CLEAR
+Bench scoring in the playoffs vs regular season — teams that lose this battle lose series,analysis,CLEAR
+Historical Finals rematches and outcomes — does the winner usually repeat or get swept?,analysis,CLEAR
+Chris Paul's assist numbers look less impressive when adjusted for teammates' shooting,analysis,EDGE_AH: borderline hot_take territory; classified analysis because it's citing a specific adjustment methodology
+OKC's young core vs the 2012 Thunder young core at the same ages — statistical comparison,analysis,CLEAR
+Why zone defense is more prevalent in the playoffs and what it takes to beat it,analysis,CLEAR
+Offensive rebounding has the highest variance of any advanced stat — here's why teams ignore it,analysis,CLEAR
+The NBA should go back to hand-check rules — the game was more physical and more watchable,hot_take,CLEAR
+Steph Curry is the most important player in NBA history — without him the league looks different,hot_take,CLEAR
+"LeBron should have left Cleveland again after 2018, staying cost him a ring",hot_take,CLEAR
+The play-in tournament ruined the regular season — teams just tank to the 9 seed now,hot_take,CLEAR
+Wemby is already a top-5 player and he's still getting better,hot_take,CLEAR
+Random goalkeeper goes 50k to 14.5M followers overnight. Wemby has 6.2M. Basketball isn't truly global.,hot_take,CLEAR
+The In-Season Tournament should affect playoff seeding — otherwise it's pointless,hot_take,CLEAR
+Refs decide at least 2 games per playoff series and it needs to be fixed,hot_take,CLEAR
+The East has been so weak that most of its champions since 2011 would be 4 seeds in the West,hot_take,CLEAR
+De'Aaron Fox should have sat out the rest of the playoffs after hurting his ankle vs Minnesota,hot_take,EDGE_AH: references a real event but no medical/tactical argument — hot_take per decision rule
+"The dunk contest is dead — the NBA should just cancel it, nobody under 30 watches",hot_take,CLEAR
+Kobe is overrated because he had Shaq for his first three rings and Gasol for the next two,hot_take,CLEAR
+Load management has permanently broken the regular season,hot_take,CLEAR
+Giannis would have zero rings without Khris Middleton and Jrue Holiday,hot_take,CLEAR
+Ben Simmons was the most overhyped prospect in the modern draft era,hot_take,CLEAR
+The league is too soft — flopping should mean automatic ejection after the second call,hot_take,CLEAR
+Sacramento deserved a dynasty in the early 2000s and 2002 WCF was the biggest scandal in sports,hot_take,CLEAR
+Miami Heat culture is the most overrated concept in basketball — they just had LeBron for 4 years,hot_take,CLEAR
+This Knicks team would beat the 2013 Heat in a 7-game series,hot_take,CLEAR
+The draft lottery system is broken and the NBA should move to a wheel,hot_take,CLEAR
+Kyrie is the most talented player of his generation and his rings prove it,hot_take,CLEAR
+The Warriors dynasty cheapened the sport — too much talent on one team,hot_take,CLEAR
+Adam Silver has done more damage to the NBA brand than David Stern ever repaired,hot_take,CLEAR
+The Spurs should have blown it up after the 2014 title — they missed their window,hot_take,CLEAR
+Playoff Rondo was genuinely a top-10 player in the league when it mattered,hot_take,CLEAR
+The 3-point line should be moved back — it's killing mid-range artistry,hot_take,CLEAR
+The '96 Bulls were overrated — they played in the weakest era of NBA competition,hot_take,CLEAR
+Melo should have won an MVP — voters penalized him unfairly for being on a bad team,hot_take,CLEAR
+Every team LeBron has been on has been both better and worse because of him,hot_take,CLEAR
+The Raptors 2019 title will be seen as a fluke when people look back in 20 years,hot_take,CLEAR
+Pat Riley is the most underrated executive in NBA history and it's not close,hot_take,CLEAR
+The NBA's international pipeline will overtake American-born stars within 10 years,hot_take,CLEAR
+Russell Westbrook was never actually a top-5 player — his stats were a product of usage,hot_take,CLEAR
+The Clippers franchise is cursed and no amount of talent will ever get them a ring,hot_take,CLEAR
+Penny Hardaway was on a Jordan-level trajectory before injuries derailed him,hot_take,CLEAR
+The NBA should allow zones in the half-court — it would improve team basketball,hot_take,CLEAR
+Defensive Player of the Year has been the most mishandled award in the sport for 20 years,hot_take,CLEAR
+The current Celtics core has a higher ceiling than the 2008 Celtics Big Three,hot_take,CLEAR
+James Harden's playoffs reputation is unfair — he was let down by his teammates,hot_take,CLEAR
+The league's best era was 1985-1995 and the talent drop-off since then is real,hot_take,EDGE_AH: cites an era but provides no comparative data — hot_take
+Damian Lillard's loyalty to Portland will be seen as his biggest career mistake,hot_take,CLEAR
+The Pistons 2004 title was the last great team-basketball championship in NBA history,hot_take,CLEAR
+Zion is on a path to wasting his prime because of injuries and off-court issues,hot_take,CLEAR
+The modern NBA is more talented than any previous era but less interesting to watch,hot_take,CLEAR
+Doc Rivers should never coach a playoff team again after what he did in Philly and Boston,hot_take,CLEAR
+The Suns front office has made every wrong decision possible with a top-5 talent in Durant,hot_take,CLEAR
+Buddy Hield is the most disrespected player of his generation — he belongs on a contender,hot_take,CLEAR
+The NBA All-Star game has been unwatchable for 10 years and nothing will fix it,hot_take,CLEAR
+Magic Johnson was a better passer than any point guard who has played since him,hot_take,CLEAR
+The 2007 LeBron Finals run is the greatest individual performance in playoff history,hot_take,CLEAR
+The NBA's media deals have made the league too reliant on TV timeouts — it kills game flow,hot_take,CLEAR
+Ja Morant's ceiling is higher than any current player not named Wemby,hot_take,CLEAR
+The Heat's zone defense in 2020 was the most innovative defensive scheme in 20 years,hot_take,EDGE_AH: makes a bold claim about a specific tactical event; classified hot_take because it asserts without building an argument
+Nikola Jokic is the best player in the world right now and it's not particularly close,hot_take,CLEAR
+The NBA should go back to best-of-5 in round 1 — upsets would make the league more exciting,hot_take,CLEAR
+THE NEW YORK KNICKS ARE YOUR 2026 NBA CHAMPIONS!!!!!,reaction,CLEAR
+WEMBY WITH THE BUZZER BEATER HALF COURT I AM LOSING MY MIND,reaction,CLEAR
+Brunson just dropped 50 in the Garden. I have never seen anything like this in person.,reaction,CLEAR
+Steph just hit his 4000th career three. The man is from another planet.,reaction,CLEAR
+I cannot believe the Celtics just blew a 3-1 lead again. This franchise is cursed.,reaction,CLEAR
+The refs just called that a foul on Jokic. I am done watching basketball.,reaction,CLEAR
+Luka just hit that stepback from 35 feet to send it to OT. I'm literally shaking.,reaction,CLEAR
+Giannis just posterized three guys on the same possession. Someone check on me.,reaction,CLEAR
+KD just dropped 49 in the 4th quarter. He cannot be stopped.,reaction,CLEAR
+This game 7 is the greatest basketball I've ever watched in my entire life,reaction,CLEAR
+I've been a Suns fan for 30 years. I've never seen them in the Finals. I'm crying right now.,reaction,CLEAR
+Tatum just dunked over Embiid and I need a moment of silence.,reaction,CLEAR
+Who is a random role player who permanently changed your life as a fan?,reaction,"EDGE_AH: no opinion or emotional event, but classified reaction because it solicits nostalgic fan sentiment, not tactical discussion"
+Just got back from my first NBA game ever. I will never be the same person.,reaction,CLEAR
+The Thunder just clinched their first title since the Durant era. OKC I am so happy for you all.,reaction,EDGE_RN: celebratory announcement of a result; classified reaction because the poster's emotional response is primary
+Jaylen Brown just won Finals MVP. He deserves every single bit of this.,reaction,CLEAR
+I'm a Lakers fan and I'm not even mad. That was the most entertaining playoff run I've ever watched.,reaction,CLEAR
+That Damian Lillard shot was the greatest moment I have ever witnessed in a basketball game.,reaction,CLEAR
+The Spurs won. Pop is a genius. I have no other words.,reaction,CLEAR
+Heat fans in the building right now are going absolutely insane. The energy is indescribable.,reaction,CLEAR
+I just watched a man score 73 points. I don't know what to do with myself.,reaction,CLEAR
+HOLY COW DID THAT JUST HAPPEN? GAME 7 OT AND THEY WIN IT???,reaction,CLEAR
+Just saw LeBron hit the shot over Iggy live in Cleveland. Nothing will ever top that.,reaction,CLEAR
+My grandfather has been a Celtics fan since 1960. He just watched them win. He's 87.,reaction,CLEAR
+I don't care about records or narratives. That was just pure joy to watch.,reaction,CLEAR
+Wemby just blocked a 3-pointer. We are witnessing something unprecedented in real time.,reaction,CLEAR
+I screamed so loud I scared my dog. That overtime sequence was unreal.,reaction,CLEAR
+Anthony Edwards just put someone in the highlight reel with that dunk. Someone call 911.,reaction,CLEAR
+Pop just coached his 1400th win. He's in a category of his own.,reaction,CLEAR
+Brunson is a villain right now and I love every second of it.,reaction,CLEAR
+I went to sleep nervous and woke up to see they won in OT. Best morning of my life.,reaction,CLEAR
+20-year drought is OVER. I'm not able to type coherently right now.,reaction,CLEAR
+Dirk is celebrating on the court right now and I'm crying at my keyboard.,reaction,CLEAR
+Embiid just posterized two guys and the crowd was so loud my phone couldn't record properly.,reaction,CLEAR
+I drove 8 hours to watch this game and I would do it again 1000 times,reaction,CLEAR
+The way that crowd erupted after that call was reversed... indescribable,reaction,CLEAR
+SGA WHAT ARE YOU DOING WHAT IS HAPPENING,reaction,CLEAR
+Just witnessed Jokic get his third MVP in real time. What a player. What a human.,reaction,CLEAR
+I taught my 5-year-old to clap and the first thing she clapped for was a Steph 3. Good parenting.,reaction,CLEAR
+My team hasn't won a playoff series in 15 years and I just watched them win game 7. I'm overwhelmed.,reaction,CLEAR
+The way the entire arena went quiet after that turnover... you could feel it shift,reaction,CLEAR
+Klay Thompson just hit his 14th three of the night. Never seen anything like this in 30 years of watching.,reaction,CLEAR
+LEBRON JAMES BLOCK LEBRON JAMES BLOCK LEBRON JAMES BLOCK,reaction,CLEAR
+I'm a Nuggets fan living in LA. The looks I'm getting right now are priceless.,reaction,CLEAR
+That buzzer beater went in off the backboard. I'm still not convinced it was real.,reaction,CLEAR
+Watching this live and my feed is completely frozen. Did they actually just win??,reaction,CLEAR
+My roommate has never watched basketball before. He just stood up and yelled. We got him.,reaction,CLEAR
+This arena is electric. I've been to 200 NBA games and this is the loudest I've ever heard one.,reaction,CLEAR
+No words. Just watch the replay. Over and over.,reaction,CLEAR
+Three generations of my family watched that game together tonight. I'll never forget it.,reaction,CLEAR
+KAT just had his best playoff game ever at the best possible moment. INCREDIBLE.,reaction,CLEAR
+That shot has already been replayed 40 times on my TV and it gets better every time,reaction,CLEAR
+I've never seen an entire fanbase this quiet after a home loss. It was eerie.,reaction,CLEAR
+I have been waiting 27 years for this. TWENTY SEVEN YEARS.,reaction,CLEAR
+Wemby just grabbed a rebound over two guys a foot taller than him. He doesn't follow physics.,reaction,CLEAR
+Tyler Herro to Detroit is picking up steam — part of a 3-team deal sending Giannis to Miami per Woj,rumors_news,CLEAR
+Jalen Brunson wins Finals MVP — official NBA announcement,rumors_news,EDGE_RN: celebratory result but primary content is a factual award announcement — rumors_news
+"Multiple big men reportedly trying to find a way to play alongside Wemby, per @mikecwright (h/t @TheNBABase)",rumors_news,CLEAR
+"Breaking: Kevin Durant has requested a trade from the Suns, per Adrian Wojnarowski",rumors_news,CLEAR
+Lakers expected to pursue a max FA this summer — Kawhi and PG both on their list per Shams,rumors_news,CLEAR
+OKC and Memphis discussing a deal involving Ja Morant per multiple league sources,rumors_news,CLEAR
+James Harden opts out of Clippers deal and will enter free agency per ESPN,rumors_news,CLEAR
+Draymond Green suspended indefinitely after game 3 incident per NBA statement,rumors_news,CLEAR
+Warriors had preliminary talks with Raptors about Siakam per The Athletic,rumors_news,CLEAR
+Kyrie Irving signs 3-year max extension with the Mavericks per Shams Charania,rumors_news,CLEAR
+Damian Lillard tells Portland he won't sign an extension and wants a trade per Woj,rumors_news,CLEAR
+Bradley Beal trade to Phoenix official — Suns send picks and TBD players per ESPN,rumors_news,CLEAR
+Chris Paul to the Warriors on a 1-year deal — official team announcement,rumors_news,CLEAR
+Zion Williamson expected to miss 6-8 weeks with hamstring strain per Pelicans front office,rumors_news,CLEAR
+Heat actively shopping Kyle Lowry ahead of trade deadline per multiple sources,rumors_news,CLEAR
+Ben Simmons will not play this season — Nets cite back injury per team statement,rumors_news,CLEAR
+Carmelo Anthony officially retires — statement from his agency,rumors_news,CLEAR
+"Draft combine: Scoot Henderson measured at 6'2"" with a 6'8"" wingspan",rumors_news,CLEAR
+Anthony Davis agrees to 3-year $186M extension with the Lakers per Woj,rumors_news,CLEAR
+Ja Morant suspended 25 games by the NBA for conduct detrimental to the league,rumors_news,CLEAR
+Kawhi Leonard has informed the Clippers he wants out — meeting scheduled per The Athletic,rumors_news,CLEAR
+Paul George signs 4-year max with the 76ers in free agency per Shams,rumors_news,CLEAR
+Bucks fire Mike Budenholzer after first-round exit per ESPN's Adrian Wojnarowski,rumors_news,CLEAR
+Lakers hire JJ Redick as head coach — official announcement from the team,rumors_news,CLEAR
+Celtics sign Kristaps Porzingis to 2-year extension per team announcement,rumors_news,CLEAR
+Victor Wembanyama wins Rookie of the Year in unanimous vote — official NBA statement,rumors_news,"EDGE_RN: award announcement, kept rumors_news because the content is factual league news not a fan's emotional post"
+OKC Thunder acquire Dejounte Murray from Atlanta in 3-team deal per Woj,rumors_news,CLEAR
+LeBron James signs 2-year extension with the Lakers to play alongside his son per ESPN,rumors_news,CLEAR
+Giannis Antetokounmpo ruled out for game 5 with knee injury per Bucks medical staff,rumors_news,CLEAR
+Jimmy Butler and Heat mutually agree to part ways — trade request granted per The Athletic,rumors_news,CLEAR
+Suns to hire Mike Budenholzer as new head coach per Shams Charania,rumors_news,CLEAR
+Nikola Jokic wins his 4th MVP award — official NBA announcement,rumors_news,EDGE_RN: factual award news; classified rumors_news over reaction because the post is reporting the fact not expressing feelings
+DeMar DeRozan signs with the Bulls on a 3-year deal per multiple sources,rumors_news,CLEAR
+Russell Westbrook and the Lakers reach a buyout agreement per Adrian Wojnarowski,rumors_news,CLEAR
+Trae Young requests a trade from Atlanta per league sources — Knicks among interested teams,rumors_news,CLEAR
+Klay Thompson signs with the Mavericks on a 4-year deal per ESPN — leaves Warriors after 13 years,rumors_news,CLEAR
+Stephen Curry named head coach of Team USA for the 2028 LA Olympics per USA Basketball statement,rumors_news,CLEAR
+Joel Embiid wins MVP award in unanimous vote per official NBA announcement,rumors_news,"EDGE_RN: same as Jokic case — factual news post, rumors_news"
+Miami Heat reach $3B sale agreement to new ownership group per Bloomberg,rumors_news,CLEAR
+Victor Wembanyama named to All-NBA first team in his rookie season per league announcement,rumors_news,CLEAR
+Ja Morant cleared to return from suspension — will play Tuesday per Grizzlies official,rumors_news,CLEAR
+Doc Rivers fired by the Bucks after regular season per ESPN,rumors_news,CLEAR
+Donovan Mitchell extension talks with the Cavaliers have stalled per The Athletic,rumors_news,CLEAR
+Golden State Warriors select Bronny James with the 55th pick in the 2024 NBA Draft,rumors_news,CLEAR
+Portland Trail Blazers to receive NBA's #1 pick after lottery per official drawing,rumors_news,CLEAR
+Udoka suspended an entire season for violations of team policies per Celtics official statement,rumors_news,CLEAR
+Durant and Kyrie reportedly want a third star — Bucks' Giannis at top of their list per insider,rumors_news,EDGE_NH: report from source but speculative framing; kept rumors_news because attribution to credentialed insider is present
+Nets owner wants to sell the team and multiple ownership groups have expressed interest per Bloomberg,rumors_news,CLEAR
+Isaiah Thomas signs 10-day contract with the Lakers for a storybook comeback per team announcement,rumors_news,CLEAR
+Miami Heat sign Jimmy Butler to a 4-year max extension — official team announcement,rumors_news,CLEAR
+Kevin Garnett and Paul Pierce banners raised to the TD Garden rafters — official Celtics ceremony,rumors_news,EDGE_RN: ceremonial news; classified rumors_news because the post reports an event not a personal emotional experience
+Woj: The Clippers are increasingly likely to blow up the roster if they lose in the first round,rumors_news,EDGE_NH: Woj speculation with editorial framing; kept rumors_news because the opinion is Woj's reported assessment not the poster's unbacked take
+LeBron James announces he will not retire and will play his 22nd season per his agent,rumors_news,CLEAR
+Gregg Popovich steps down as Spurs head coach — will transition to front office per team statement,rumors_news,CLEAR
+NBA announces new CBA details — second apron tax creates hard cap for repeat offenders,rumors_news,CLEAR
+Bronny James selected by the Lakers — father and son will play together for the first time in NBA history,rumors_news,CLEAR
